@@ -1,3 +1,1 @@
-# MLnow_2.0
-Regression
-classification
+# Machine Learning Projects.
